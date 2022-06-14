@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureGaming", "AzureGaming\AzureGaming.csproj", "{033092F4-ED4F-4092-A346-6D9DD1E0F3CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033092F4-ED4F-4092-A346-6D9DD1E0F3CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033092F4-ED4F-4092-A346-6D9DD1E0F3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033092F4-ED4F-4092-A346-6D9DD1E0F3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033092F4-ED4F-4092-A346-6D9DD1E0F3CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5528589-047E-4B2F-99AD-E92AE9B5A0DE}
+	EndGlobalSection
+EndGlobal
